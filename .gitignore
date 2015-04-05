@@ -1,0 +1,11 @@
+# Java
+target/
+
+# IntelliJ
+workspace.xml
+tasks.xml
+
+# Eclipse
+.classpath
+.project
+.settings
